@@ -1,0 +1,8 @@
+/usr/bin/bitx-cli		--	gen_context(system_u:object_r:bitx_exec_t,s0)
+/usr/sbin/bitxd		--	gen_context(system_u:object_r:bitx_exec_t,s0)
+/usr/lib(64)?/bitx/bitxd		--	gen_context(system_u:object_r:bitx_exec_t,s0)
+
+/etc/bitx(/.*)?		gen_context(system_u:object_r:bitx_conf_t,s0)
+/var/lib/bitx(/.*)?		gen_context(system_u:object_r:bitx_var_lib_t,s0)
+
+(/var)?/run/bitxd(/.*)?   gen_context(system_u:object_r:bitx_var_run_t,s0)

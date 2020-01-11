@@ -1,0 +1,3 @@
+usr/local/bin/bitxd usr/bin
+usr/local/bin/bitx-cli usr/bin
+debian/examples/bitx.conf etc/bitx

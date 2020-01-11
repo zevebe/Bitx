@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Bitx Core
+Comment=Bitx P2P Cryptocurrency
+Comment[fr]=Bitx, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitx, eşten eşe kriptografik sanal para birimi
+Exec=bitx-qt %u
+Terminal=false
+Type=Application
+Icon=bitx128
+MimeType=x-scheme-handler/bitx;
+Categories=Office;Finance;
+StartupWMClass=Bitx-qt
