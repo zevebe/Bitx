@@ -27,9 +27,9 @@ More information at [bitextechnology.com](http://www.bitxtechnology.com) Visit o
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 PIV</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>64,860,000 BX</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 PIV*</td></tr>
+<tr><td>Premine</td><td>60,000 BX*</td></tr>
 </table>
 
 Premine *60,000 BX  Block [1](http://139.180.161.31:3001/tx/1bf19f22d2828ccc93f520a7ccd346a1119590a5e845a444e8db42a9cc6d6be6)
