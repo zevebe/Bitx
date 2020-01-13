@@ -28,3 +28,15 @@
 dist: xenial
 os: linux
 language: minimal
+dist: xenial
+os: linux
+language: minimal
+cache:
+  ccache: true
+  directories:
+    - depends/built
+    - depends/sdk-sources
+    - $HOME/.ccache
+stages:
+  - lint
+  - test
