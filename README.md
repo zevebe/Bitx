@@ -4,9 +4,8 @@ BITX Core integration/staging repository
 BITX is an open source crypto-currency focused on fast private transactions based on PIVX, using the Zerocoin protocol, low transaction fees & environmental footprint.  It utilizes the first ever anonymous proof of stake protocol, called zPoS, combined with regular PoS and masternodes for securing its network. zPoS incentivises using the privacy features available in PIVX by granting a higher block reward for zPoS over regular PoS and masternodes. 
 
 Why BITX?
-- 
+-
 - Anonymized transactions, Messaging & consensus using the Zerocoin Protocol.
-- 
 - Fast transactions.
 - Decentralized blockchain voting utilizing Masternode technology. 
 - The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community.
