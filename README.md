@@ -55,17 +55,17 @@ Premine *60,000 BX  Block [1](http://139.180.161.31:3001/tx/1bf19f22d2828ccc93f5
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
-<tr><td>Phase 0</td><td>259201-302399</td><td>50 BX</td><td>90% (45 PIV)</td><td>10% (5 BX)</td></tr>
-<tr><td>Phase 1</td><td>302400-345599</td><td>45 BX</td><td>90% (40.5 PIV)</td><td>10% (4.5 BX)</td></tr>
-<tr><td>Phase 2</td><td>345600-388799</td><td>40 BX</td><td>90% (36 PIV)</td><td>10% (4 BX)</td></tr>
-<tr><td>Phase 3</td><td>388800-431999</td><td>35 BX</td><td>90% (31.5 PIV)</td><td>10% (3.5 BX)</td></tr>
-<tr><td>Phase 4</td><td>432000-475199</td><td>30 BX</td><td>90% (27 PIV)</td><td>10% (3 BX)</td></tr>
-<tr><td>Phase 5</td><td>475200-518399</td><td>25 BX</td><td>90% (22.5 PIV)</td><td>10% (2.5 BX)</td></tr>
-<tr><td>Phase 6</td><td>518400-561599</td><td>20 BX</td><td>90% (18 PIV)</td><td>10% (2 BX)</td></tr>
-<tr><td>Phase 7</td><td>561600-604799</td><td>15 BX</td><td>90% (13.5 PIV)</td><td>10% (1.5 BX)</td></tr>
-<tr><td>Phase 8</td><td>604800-647999</td><td>10 BX</td><td>90% (9 PIV)</td><td>10% (1 BX)</td></tr>
-<tr><td>Phase 9</td><td>648000-1154203</td><td>5 BX</td><td>90% (4.5 PIV)</td><td>10% (0.5 BX)</td></tr>
-<tr><td>Phase X</td><td>1154203-∞</td><td>6 BX</td><td>84% (5 PIV/zPIV)</td><td>16% (1 BX)</td></tr>
+<tr><td>Phase 0</td><td>259201-302399</td><td>50 BX</td><td>90% (45 BX)</td><td>10% (5 BX)</td></tr>
+<tr><td>Phase 1</td><td>302400-345599</td><td>45 BX</td><td>90% (40.5 BX)</td><td>10% (4.5 BX)</td></tr>
+<tr><td>Phase 2</td><td>345600-388799</td><td>40 BX</td><td>90% (36 BX)</td><td>10% (4 BX)</td></tr>
+<tr><td>Phase 3</td><td>388800-431999</td><td>35 BX</td><td>90% (31.5 BX)</td><td>10% (3.5 BX)</td></tr>
+<tr><td>Phase 4</td><td>432000-475199</td><td>30 BX</td><td>90% (27 BX)</td><td>10% (3 BX)</td></tr>
+<tr><td>Phase 5</td><td>475200-518399</td><td>25 BX</td><td>90% (22.5 BX)</td><td>10% (2.5 BX)</td></tr>
+<tr><td>Phase 6</td><td>518400-561599</td><td>20 BX</td><td>90% (18 BX)</td><td>10% (2 BX)</td></tr>
+<tr><td>Phase 7</td><td>561600-604799</td><td>15 BX</td><td>90% (13.5 BX)</td><td>10% (1.5 BX)</td></tr>
+<tr><td>Phase 8</td><td>604800-647999</td><td>10 BX</td><td>90% (9 BX)</td><td>10% (1 BX)</td></tr>
+<tr><td>Phase 9</td><td>648000-1154203</td><td>5 BX</td><td>90% (4.5 BX)</td><td>10% (0.5 BX)</td></tr>
+<tr><td>Phase X</td><td>1154203-∞</td><td>6 BX</td><td>84% (5 BX/zBX)</td><td>16% (1 BX)</td></tr>
 </table>
 
 About this Project and licensing details
