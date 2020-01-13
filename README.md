@@ -1,4 +1,13 @@
-BITX Core integration/staging repository
+BITX Core
+-
+Copyright (C) 2009-2020 The Bitcoin Core Developers
+
+Copyright (C) 2014-2020 The Dash Core Developers
+
+Copyright (C) 2015-2020 The PIVX Core Developers
+
+Copyright (C) 2020 The Bitx Core Developers
+
 =====================================
 
 BITX is an open source crypto-currency focused on fast private transactions based on PIVX, using the Zerocoin protocol, low transaction fees & environmental footprint.  It utilizes the first ever anonymous proof of stake protocol, called zPoS, combined with regular PoS and masternodes for securing its network. zPoS incentivises using the privacy features available in PIVX by granting a higher block reward for zPoS over regular PoS and masternodes. 
@@ -9,6 +18,7 @@ Why BITX?
 - Fast transactions.
 - Decentralized blockchain voting utilizing Masternode technology. 
 - The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community.
+- Bitx will support a secondary p2p network and a Cipher messenger.
 
 More information at [bitextechnology.com](http://www.bitxtechnology.com) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
 
@@ -57,3 +67,11 @@ Premine *60,000 BX  Block [1](http://139.180.161.31:3001/tx/1bf19f22d2828ccc93f5
 <tr><td>Phase 9</td><td>648000-1154203</td><td>5 BX</td><td>90% (4.5 PIV)</td><td>10% (0.5 BX)</td></tr>
 <tr><td>Phase X</td><td>1154203-∞</td><td>6 BX</td><td>84% (5 PIV/zPIV)</td><td>16% (1 BX)</td></tr>
 </table>
+
+About this Project and licensing details
+-
+This is the core implementation of Bitx. It is free to get and modify for your own usage, however, you can't distribute modified copies from this repository.
+
+Bitx is open source and completely free to use version of this repository without restrictions which is updated on yearly basis. There are no restrictions on anyone creating an alternative implementation of Bitx that uses the protocol and network in a compatible manner.
+
+
