@@ -23,7 +23,7 @@ More information at [bitextechnology.com](http://www.bitxtechnology.com) Visit o
 <tr><td>Premine</td><td>60,000 PIV*</td></tr>
 </table>
 
-Premine *60,000 BX [1](http://139.180.161.31:3001/tx/1bf19f22d2828ccc93f520a7ccd346a1119590a5e845a444e8db42a9cc6d6be6)
+Premine *60,000 BX Initial Pre-mine, block[1](http://139.180.161.31:3001/tx/1bf19f22d2828ccc93f520a7ccd346a1119590a5e845a444e8db42a9cc6d6be6)
 
 ### Reward Distribution
 
